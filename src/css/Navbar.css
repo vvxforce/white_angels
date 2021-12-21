@@ -1,0 +1,15 @@
+.center {
+    text-align: center;
+}
+.logo {
+    height: 10.5vh;
+}
+.text {
+    padding: 0 0 0 21px;
+    font: 700 20px Grifter, sans-serif;
+}
+.language {
+    margin: 0 10px;
+    font-size: 22px;
+    font-weight: 700;
+}
